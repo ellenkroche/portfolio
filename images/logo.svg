@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 841.89 595.28" style="enable-background:new 0 0 841.89 595.28;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.9;}
+	.st1{opacity:0.95;}
+	.st2{fill:none;stroke:#000000;stroke-width:12;stroke-miterlimit:10;}
+	.st3{opacity:0.93;}
+	.st4{opacity:0.9;fill:#FFFFFF;stroke:#000000;stroke-width:10.6298;stroke-miterlimit:10;}
+	.st5{opacity:0.9;fill:none;stroke:#000000;stroke-width:10.6298;stroke-miterlimit:10;}
+	.st6{fill:none;stroke:#000000;stroke-width:11.1763;stroke-miterlimit:10;}
+	.st7{fill:none;stroke:#000000;stroke-width:10.9924;stroke-miterlimit:10;}
+	.st8{fill:none;stroke:#000000;stroke-width:8.202;stroke-miterlimit:10;}
+	.st9{font-family:'ToppanBunkyuMidashiGothicStdN-ExtraBold-83pv-RKSJ-H';}
+	.st10{font-size:134.2562px;}
+	.st11{letter-spacing:-0.83;}
+</style>
+<g>
+	<g class="st0">
+		<g class="st1">
+			<path class="st2" d="M538.82,425.92H276.28c-13.09,0-23.7-10.61-23.7-23.7V226.35c0-13.09,10.61-23.7,23.7-23.7h262.54
+				c13.09,0,23.7,10.61,23.7,23.7v175.87C562.52,415.31,551.91,425.92,538.82,425.92z"/>
+			<path class="st2" d="M516.73,463.67c-8.26,7.87,22.37,5.64,31.44,0c11.76-7.3,16.46-23.09,9.83-36.95h-44.22
+				C513.78,426.72,517.47,462.97,516.73,463.67z"/>
+		</g>
+		<line class="st2" x1="561.96" y1="245.69" x2="561.96" y2="438.41"/>
+	</g>
+	<g class="st3">
+		<polygon class="st4" points="353.35,482.54 196.07,331.91 232.05,295.84 389.32,446.46 		"/>
+		<line class="st5" x1="241.5" y1="337.85" x2="258.75" y2="319.07"/>
+		<line class="st5" x1="268.58" y1="363.19" x2="285.83" y2="344.41"/>
+		<line class="st5" x1="293.58" y1="388.34" x2="310.83" y2="369.56"/>
+		<line class="st5" x1="320.66" y1="413.47" x2="337.91" y2="394.69"/>
+	</g>
+	<g class="st0">
+		<path class="st6" d="M519.78,266.77l-20.54,20.74l26.67,26.39l20.53-20.74c4.03-4.07,4-10.64-0.08-14.67l-11.92-11.8
+			C530.37,262.67,523.81,262.7,519.78,266.77z"/>
+		
+			<rect x="419.47" y="324.06" transform="matrix(0.7036 -0.7106 0.7106 0.7036 -104.036 436.2087)" class="st6" width="102.82" height="37.52"/>
+		<line class="st7" x1="419.45" y1="367.2" x2="406.88" y2="412.66"/>
+		<line class="st7" x1="447.25" y1="393.92" x2="404" y2="410.94"/>
+		<g>
+			<line class="st7" x1="501.12" y1="410.69" x2="401.49" y2="410.69"/>
+			<line class="st7" x1="523.01" y1="410.69" x2="510.83" y2="410.69"/>
+			<line class="st7" x1="544.2" y1="410.69" x2="532.02" y2="410.69"/>
+		</g>
+	</g>
+	<text transform="matrix(1.2074 0 0 1 253.4626 326.3058)" class="st8 st9 st10 st11">ER</text>
+</g>
+</svg>
